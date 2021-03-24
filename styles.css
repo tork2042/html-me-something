@@ -1,0 +1,54 @@
+
+h1 {
+	text-align: center;
+	border-style: groove;
+}
+h2 {
+	text-decoration: underline;
+	text-shadow: 1ex;
+	text-align: left;
+	font-size:xx-large;
+	font-style: oblique;
+}
+p {
+	font: 1em sans-serif;
+	font-weight: 100;
+	font-size:medium;
+
+}
+
+#trailMap {
+	align-content:center;
+	
+}
+#sign {
+	align-content:center;
+
+}
+  #bigLaurel {
+	align-image-rendering
+  }
+body {
+	width: 100%;
+	max-width: 1080px;
+	margin: 1 auto;
+	background-color: #004d4d;
+	line-height: 2;
+}
+ul {
+	list-style:decimal;
+}
+blockquote, q {
+	quotes: none;
+}
+img {
+	border-style: inset;
+	width: 100%;
+	max-width: 100%;
+}
+figcaption {
+	align-content:center;
+}
+section {
+	margin: 1.875em 0;
+}
